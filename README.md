@@ -4,4 +4,4 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 
  It is mainly build with html,css,js ,which is made up of basic html with animation .
 
- ![Alt text](image-1.png)
+ 
